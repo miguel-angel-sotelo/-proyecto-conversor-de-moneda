@@ -1,6 +1,6 @@
 <h1> Conversor de monedas </h1>
 -Estado del proyecto: Concluido.
-Bienvenidos a mi proyecto de conversor de monedas,proyecto que fue aprendido ha hacer gracias a @Alura latam. Este proyecto tiene la funcin especifica de convertir y calcular el valor de diferentes divisas consumiendo una api de ExchangeApi,la cual  nos proporciona uana actualizacion en tiempo real del valor de la moneda de cada pais .
+Bienvenidos a mi proyecto de conversor de monedas,proyecto que fue aprendido ha hacer gracias a @Alura latam. Este proyecto tiene la función especifica de convertir y calcular el valor de diferentes divisas consumiendo una api de ExchangeApi,la cual  nos proporciona uana actualizacion en tiempo real del valor de la moneda de cada pais .
 Acontinuacion podremos tener informacion mas detallada sobre la construccion y el funcionamiento de esta aplicacion.
 
 
